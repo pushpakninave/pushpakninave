@@ -26,7 +26,7 @@
  <a href="https://pepecode.hashnode.dev/" target="blank"><img align="center" src="https://api.iconify.design/logos/hashnode-icon.svg" alt="hashnode_blog" height="30"  target="_blank" width="40" /></a>
   <a href="https://stackoverflow.com/users/15220760/brat?tab=profile" target="blank"><img align="center" src="https://api.iconify.design/logos/stackoverflow-icon.svg" alt="stackoverflow" height="30"  target="_blank" width="40" /></a>
  
- <a href="https://www.codewars.com/users/pushpakninave" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="stackoverflow" height="30"  target="_blank" width="40" /></a>
+ <a href="https://www.codewars.com/users/pushpakninave" target="blank"><img align="center" src="https://code.iconify.design/2/2.1.0/iconify.min.js" alt="stackoverflow" height="30"  target="_blank" width="40" /></a>
  
 </p>
 <hr>
