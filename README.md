@@ -25,6 +25,9 @@
 <a href="https://discord.gg/https://discord.gg/9GFrshmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9GFrshmc" height="30" target="_blank" width="40" /></a>
  <a href="https://pepecode.hashnode.dev/" target="blank"><img align="center" src="https://api.iconify.design/logos/hashnode-icon.svg" alt="hashnode_blog" height="30"  target="_blank" width="40" /></a>
   <a href="https://stackoverflow.com/users/15220760/brat?tab=profile" target="blank"><img align="center" src="https://api.iconify.design/logos/stackoverflow-icon.svg" alt="stackoverflow" height="30"  target="_blank" width="40" /></a>
+ 
+ <a href="https://www.codewars.com/users/pushpakninave" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="stackoverflow" height="30"  target="_blank" width="40" /></a>
+ 
 </p>
 <hr>
 
