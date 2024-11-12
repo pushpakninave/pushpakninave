@@ -11,19 +11,6 @@
 
 <br><br>
 <hr>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=pushpakninave&theme=dark&hide_border=false"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=pushpakninave&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-
-<hr>
-<br><br>
-<h3 align="left">Reach me at:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/9GFrshmc" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="https://discord.gg/9GFrshmc" height="30" target="_blank" width="30" /></a>
- <a href="https://pepecode.hashnode.dev/" target="blank"><img align="center" src="https://api.iconify.design/logos/hashnode-icon.svg" alt="hashnode_blog" height="30"  target="_blank" width="40" /></a>
-  <a href="https://stackoverflow.com/users/15220760/brat?tab=profile" target="_blank"><img align="center" src="https://api.iconify.design/logos/stackoverflow-icon.svg" alt="stackoverflow" height="30"  target="_blank" width="40" /></a>
-<!--  <a href="https://www.codewars.com/users/pushpakninave" target="_blank"><img align="center" src="https://api.iconify.design/cib/codewars.svg?color=%23b1361e" alt="codewars" height="30"  target="_blank" width="40" /></a> -->
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&preferLogin=false&Ring=4DDD23">    <img  alt="pushpakninave's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/pushpakninave?cardType=level-alternate&theme=github-dark&preferLogin=false&Ring=4DDD23" />  </a>
 </p>
-<hr>
 
